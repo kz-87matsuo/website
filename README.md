@@ -1,7 +1,7 @@
 #Sample Website
 
 This is a sample website made as part of
-[Learn Enough™️ Git to BeDangerous*](https://www.learnenough.com/git-tutorial),
+[*Learn Enough™️ Git to BeDangerous*](https://www.learnenough.com/git-tutorial),
 possibly the greatest beginner Git tutorial in the history of the Universe.
 You should totall [check it out](https://www.learnenough.com/git-tutorial),
 and be sure to [join the email list](https://www.learnenough.com/#email_list) and
