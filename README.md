@@ -13,4 +13,3 @@ back up data, share my work with others, and collaborate with programmers and
 other users of Git.
 
 For more infomation on Git, see the [official Git documentation](https://git-scm.com/).
-For more infomation on Git, see the [official Git documentation](https://git-scm.com/).
